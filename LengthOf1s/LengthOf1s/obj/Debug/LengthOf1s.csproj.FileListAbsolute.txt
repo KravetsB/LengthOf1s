@@ -1,0 +1,7 @@
+C:\Users\Bohdan\Source\Repos\LengthOf1s\LengthOf1s\LengthOf1s\bin\Debug\LengthOf1s.exe.config
+C:\Users\Bohdan\Source\Repos\LengthOf1s\LengthOf1s\LengthOf1s\bin\Debug\LengthOf1s.exe
+C:\Users\Bohdan\Source\Repos\LengthOf1s\LengthOf1s\LengthOf1s\bin\Debug\LengthOf1s.pdb
+C:\Users\Bohdan\Source\Repos\LengthOf1s\LengthOf1s\LengthOf1s\obj\Debug\LengthOf1s.csprojAssemblyReference.cache
+C:\Users\Bohdan\Source\Repos\LengthOf1s\LengthOf1s\LengthOf1s\obj\Debug\LengthOf1s.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\Source\Repos\LengthOf1s\LengthOf1s\LengthOf1s\obj\Debug\LengthOf1s.exe
+C:\Users\Bohdan\Source\Repos\LengthOf1s\LengthOf1s\LengthOf1s\obj\Debug\LengthOf1s.pdb
